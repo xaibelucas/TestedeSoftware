@@ -2,7 +2,7 @@
 
 **Versão:** 1.0  
 **Data:** 31/03/2026  
-**Autor(es):** Athos Diniz, Gustavo Necal, Lucas Scheibe e Ruan Martins.  
+**Autor(es):** André Felipe, Athos Diniz, Gustavo Necal, Lucas Scheibe e Ruan Martins.  
 **Projeto:** Shortz-App
 
 ## 1\. Introdução
